@@ -4,11 +4,11 @@
 
 **📘 Overview**
 
-Proposes an explainable deep learning framework for automated cervical cancer cell classification using Pap-smear cytology images. Conducts a systematic comparison of nine CNN architectures, including DenseNet, ResNet, VGG, Inception, EfficientNet, MaxViT, and a custom CNN-18 model.
+1.Proposes an explainable deep learning framework for automated cervical cancer cell classification using Pap-smear cytology images. Conducts a systematic comparison of nine CNN architectures, including DenseNet, ResNet, VGG, Inception, EfficientNet, MaxViT, and a custom CNN-18 model.
 
-Uses a curated dataset of 6,374 cervical cell images across five epithelial classes.
+2.Uses a curated dataset of 6,374 cervical cell images across five epithelial classes.
 
-Ensures a fair evaluation by training all models under identical preprocessing, augmentation, and hyperparameter settings.
+3.Ensures a fair evaluation by training all models under identical preprocessing, augmentation, and hyperparameter settings.
 
 DenseNet-121 achieved the best performance with:
 
@@ -18,11 +18,11 @@ DenseNet-121 achieved the best performance with:
 
 ✅ Statistically significant improvement (ANOVA, p < 0.05)
 
-Incorporates Grad-CAM for model interpretability, highlighting clinically relevant nuclear and cytoplasmic regions.
+4.Incorporates Grad-CAM for model interpretability, highlighting clinically relevant nuclear and cytoplasmic regions.
 
-Achieves a clinically favorable False Negative Rate (FNR) below 2% for abnormal lesions.
+5.Achieves a clinically favorable False Negative Rate (FNR) below 2% for abnormal lesions.
 
-Demonstrates strong potential for AI-assisted cervical cancer screening, especially in low-resource clinical settings.
+6.Demonstrates strong potential for AI-assisted cervical cancer screening, especially in low-resource clinical settings.
 
 **📁 Dataset**
 
