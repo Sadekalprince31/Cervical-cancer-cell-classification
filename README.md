@@ -1,8 +1,8 @@
 
 
-#Explainable Deep Learning for Cervical Cancer Cell Classification: Comparative Analysis of CNN Architectures with DenseNet-121
+**Explainable Deep Learning for Cervical Cancer Cell Classification: Comparative Analysis of CNN Architectures with DenseNet-121**
 
-📘 Overview
+**📘 Overview**
 
 Proposes an explainable deep learning framework for automated cervical cancer cell classification using Pap-smear cytology images. Conducts a systematic comparison of nine CNN architectures, including DenseNet, ResNet, VGG, Inception, EfficientNet, MaxViT, and a custom CNN-18 model.
 
@@ -24,7 +24,7 @@ Achieves a clinically favorable False Negative Rate (FNR) below 2% for abnormal 
 
 Demonstrates strong potential for AI-assisted cervical cancer screening, especially in low-resource clinical settings.
 
-📁 Dataset
+**📁 Dataset**
 
 The dataset used in this study was custom-built by the authors for cervical cancer cell classification. The dataset was curated and organized using the Roboflow platform, where cervical cytology images were collected, preprocessed, and annotated for multi-class classification experiments.
 
@@ -44,7 +44,7 @@ All images were carefully labeled and processed to ensure consistency and qualit
 
 👉 Dataset Link: https://app.roboflow.com/first-orenm/cervical-cancer-cell-classificat-i93u6/3
 
-🚀 Key Features
+**🚀 Key Features**
 
 🔍 Dataset Preparation
 
@@ -152,7 +152,7 @@ Overall abnormal lesion FNR:
 
 This demonstrates the model’s high reliability for clinical screening applications.
 
-📊 Results & Highlights
+**📊 Results & Highlights**
 
 DenseNet-121 achieved the best overall performance among all evaluated CNN architectures for cervical cell classification.
 
